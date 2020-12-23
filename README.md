@@ -11,9 +11,9 @@ Almost all the deeplearning libraries provide ready to use 2D models with/withou
 * random
 ```
 
-# 3D-Models Avaible:
+## 3D-Models Avaible:
 
-## Classification:
+### Classification:
 ```ruby
 * Resnet_3D.py 
 * DenseNet_3D.py
