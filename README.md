@@ -4,7 +4,9 @@ Almost all the deeplearning libraries provide ready to use 2D models with/withou
 
 
 # Libraries Needed:
+```ruby
 * Python 3.x 
 * Tensorflow 2.X
 * Numpy
 * random
+```
