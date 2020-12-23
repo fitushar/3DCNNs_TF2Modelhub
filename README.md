@@ -22,6 +22,6 @@ Almost all the deeplearning libraries provide ready to use 2D models with/withou
 ```
 ### Segmentation:
 ```ruby
-* DenseVnet3D.py -> (https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2/edit/master/README.md)  
-* Unet3D.py-> (https://github.com/fitushar/3DUnet_tensorflow2.0)
+* DenseVnet3D.py -> (https://github.com/fitushar/DenseVNet3D_Chest_Abdomen_Pelvis_Segmentation_tf2/)  
+* Unet3D.py-> (https://github.com/fitushar/3DUnet_tensorflow2.0/)
 ```
